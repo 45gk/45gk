@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on: ETL prosesses and DWH<br>🌱 I’m currently learning: ML, Data Engineering, Math Stats, Backend, Android Apps<br>⚡ Fun fact: 23 y.o., Junior Data Analyst
+🔭 I’m currently working on: ETL processes and DWH<br>🌱 I’m currently learning: ML, Data Engineering, Math Stats, Backend, Android Apps<br>⚡ Fun fact: 23 y.o., Junior Data Analyst
 
 
 ## 🌐 Socials:
